@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "config.h": "c",
+        "led_task.h": "c",
+        "hal.h": "c",
+        "usb.h": "c",
+        "ch_log.h": "c",
+        "ch_spinlock.h": "c",
+        "stdatomic.h": "c",
+        "ch59x_usbdev.h": "c",
+        "ch59x_common.h": "c",
+        "isp592.h": "c",
+        "gattprofile.h": "c",
+        "peripheral.h": "c"
+    },
+    "idf.portWin": "COM5"
+}
